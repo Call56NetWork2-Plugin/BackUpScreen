@@ -20,3 +20,6 @@ viエディタの使い方
 ```
 $ vi backup.sh
 ```
+
+### 引用:
+https://qiita.com/T1kus0n/items/7dcc6b28d84ff3365e6c
